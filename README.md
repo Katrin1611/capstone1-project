@@ -1,2 +1,2 @@
 # capstone1-project
-My first capstone project as develpong Web Developer
+My first capstone project as developing Web Developer
